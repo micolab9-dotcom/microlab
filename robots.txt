@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://microlab-iqsu.vercel.app/sitemap.xml
+Sitemap: https://microlab-delta.vercel.app/sitemap.xml
 
 # Disallow admin and private directories
 Disallow: /admin/
