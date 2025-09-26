@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://microdentallab.com/sitemap.xml
+Sitemap: https://microlab-iqsu.vercel.app/sitemap.xml
 
 # Disallow admin and private directories
 Disallow: /admin/
